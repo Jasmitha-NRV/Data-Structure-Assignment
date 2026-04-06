@@ -1,4 +1,4 @@
 # Data-Structure-Assignment
 Name:N.R.V. Jasmitha
 Application no: CDS/2025/1228
-Couse: Introduction to Data structure
+Course: Introduction to Data structure
